@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 We, the developers of IPSC Calculator, understand the importance of privacy and security for our users. This Privacy Policy outlines the types of information we collect, how we use it, and the steps we take to protect it.
 
